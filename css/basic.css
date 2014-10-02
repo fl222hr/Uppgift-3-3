@@ -106,11 +106,14 @@ Button Hover: #9c9084
 }
 
 #subcontent{
-    width:200px;
+    width:194px;
     float:left;
     word-spacing:5px;
     line-height: 150%;
     padding-top:20px;
+    padding-left:5px;
+    border-left-style:dashed;
+    border-left-width: 1px;
 }
 
 #subcontent h1{
